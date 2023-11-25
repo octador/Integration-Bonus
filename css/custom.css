@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+.color-header {
+    color: #fad5ba;
+    background-color: rgb(244, 156, 132);
+}
+
+.title-nav {
+    font-family: 'Akaya Telivigala', cursive;
+}
