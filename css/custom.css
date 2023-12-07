@@ -8,3 +8,62 @@
 .title-nav {
     font-family: 'Akaya Telivigala', cursive;
 }
+.bg-image{
+    background-image: url(/img/01PIC.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #f49c84;
+}
+.learn-more{
+    background-color: rgb(3, 219, 118);
+    border-radius: 50px;
+}
+.calendar-center{
+    gap: 20px;
+}
+.bg-calendar-formation{
+    background-color: #fad5ba;
+    width: 250px;
+
+   
+}
+.bg-calendar{
+    background-color: #f49c84;
+    width: 250px;
+    outline: 2px solid white;
+    outline-offset: -10px;
+    
+  
+}
+.h3-formation{
+    color: #f49c84;
+}
+.h3-calendar{
+    color: white;
+}
+.bg-section3{
+    background-image: url(/img/philo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+blockquote
+{
+  font-style: normal;
+  font-size: 16px;
+  margin-left: -15px;
+  font-family: Consolas, "Times New Roman", Verdana;
+  border-left: 4px solid #CCC;
+  padding-left: 15px;
+}
+.gallerie-blockquote
+{
+  font-style: normal;
+  font-size: 16px;
+  margin-left: -15px;
+  font-family: Consolas, "Times New Roman", Verdana;
+  border-left: 4px solid #CCC;
+  padding-left: 15px;
+}
+.gap-gallerie{
+    gap: 10px;
+}
