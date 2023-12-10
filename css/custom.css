@@ -8,59 +8,95 @@
 .title-nav {
     font-family: 'Akaya Telivigala', cursive;
 }
-.bg-image{
+
+.bg-image {
     background-image: url(/img/01PIC.jpg);
     background-position: center;
     background-size: cover;
     color: #f49c84;
 }
-.learn-more{
-    background-color: rgb(3, 219, 118);
+
+.learn-more {
+    background-color: #acd579;
     border-radius: 50px;
 }
-.calendar-center{
+
+.calendar-center {
     gap: 20px;
 }
-.bg-calendar-formation{
+
+.bg-calendar-formation {
     background-color: #fad5ba;
     width: 250px;
 
-   
+
 }
-.bg-calendar{
+
+.bg-calendar {
     background-color: #f49c84;
     width: 250px;
     outline: 2px solid white;
     outline-offset: -10px;
-    
-  
+
+
 }
-.h3-formation{
+
+.h3-formation {
     color: #f49c84;
 }
-.h3-calendar{
+
+.h3-calendar {
     color: white;
 }
-.bg-section3{
+
+.bg-section3 {
     background-image: url(/img/philo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
-blockquote
-{
-  font-style: normal;
-  font-size: 16px;
-  margin-left: -15px;
-  font-family: Consolas, "Times New Roman", Verdana;
-  border-left: 4px solid #CCC;
-  padding-left: 15px;
+
+blockquote {
+    font-style: normal;
+    font-size: 16px;
+    margin-left: -15px;
+    font-family: Consolas, "Times New Roman", Verdana;
+    border-left: 4px solid #CCC;
+    padding-left: 15px;
 }
-.gallerie-blockquote
-{
-  font-style: normal;
-  font-size: 16px;
-  margin-left: -15px;
-  font-family: Consolas, "Times New Roman", Verdana;
-  border-left: 4px solid #CCC;
-  padding-left: 15px;
+
+.gallerie-blockquote {
+    font-style: normal;
+    font-size: 16px;
+    margin-left: -15px;
+    font-family: Consolas, "Times New Roman", Verdana;
+    border-left: 4px solid #CCC;
+    padding-left: 15px;
+}
+
+.bg-section4 {
+    background-color: #fef0ef;
+}
+/* ------------------------------------------- */
+.bg-contact {
+    background-image: url(/img/bg-contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+input {
+    border-left: solid 2px #CCC;
+    border-bottom: solid 2px #CCC;
+    border-top: none;
+    border-right: none;
+    width: 30%;
+    background: transparent;
+}
+.textarea{
+    border-left: solid 2px #CCC;
+    border-bottom: solid 2px #CCC;
+    border-top: none;
+    border-right: none;
+    background: transparent;
+    width: 50%;
+    position: absolute;
 }
